@@ -13,7 +13,7 @@ This project adds a playful touch to your webpage by generating random emojis th
 
 ## Customization
 
-Feel free to customize the emojis array in `script.js` to include your favorite emojis. You can also adjust the animation timings and styles in the CSS file (`style.css`) to match your webpage's aesthetic.
+Feel free to customize the emojis array in `script.js` to include your favorite emojis. You can also adjust the animation timings and styles in the CSS file `style.css` to match your webpage's aesthetic.
 
 ## License
 
