@@ -1,6 +1,7 @@
 # Html-Animation(Text & Emoji)
 Code launches emojis on screen, like playful confetti at a digital party..
 
+```
 ## Description
 
 This project adds a playful touch to your webpage by generating random emojis that float across the screen. Each emoji disappears after a few seconds, keeping the animation dynamic and fun.
